@@ -1,0 +1,256 @@
+<html>
+  <head>
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="" />
+    <link
+      rel="stylesheet"
+      as="style"
+      onload="this.rel='stylesheet'"
+      href="https://fonts.googleapis.com/css2?display=swap&amp;family=Epilogue%3Awght%40400%3B500%3B700%3B900&amp;family=Noto+Sans%3Awght%40400%3B500%3B700%3B900"
+    />
+
+    <title>Galileo Design</title>
+    <link rel="icon" type="image/x-icon" href="data:image/x-icon;base64," />
+
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+  </head>
+  <body>
+    <div
+      class="relative flex size-full min-h-screen flex-col bg-[#fafcf8] justify-between group/design-root overflow-x-hidden"
+      style='font-family: Epilogue, "Noto Sans", sans-serif;'
+    >
+      <div>
+        <div class="flex items-center bg-[#fafcf8] p-4 pb-2 justify-between">
+          <div class="text-[#151b0d] flex size-12 shrink-0 items-center" data-icon="ArrowLeft" data-size="24px" data-weight="regular">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" fill="currentColor" viewBox="0 0 256 256">
+              <path d="M224,128a8,8,0,0,1-8,8H59.31l58.35,58.34a8,8,0,0,1-11.32,11.32l-72-72a8,8,0,0,1,0-11.32l72-72a8,8,0,0,1,11.32,11.32L59.31,120H216A8,8,0,0,1,224,128Z"></path>
+            </svg>
+          </div>
+          <h2 class="text-[#151b0d] text-lg font-bold leading-tight tracking-[-0.015em] flex-1 text-center pr-12">Tlalli</h2>
+        </div>
+        <div class="@container">
+          <div class="@[480px]:px-4 @[480px]:py-3">
+            <div
+              class="bg-cover bg-center flex flex-col justify-end overflow-hidden bg-[#fafcf8] @[480px]:rounded-xl min-h-80"
+              style='background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0) 25%), url("https://cdn.usegalileo.ai/sdxl10/6b65909a-c52e-4275-95f2-b915bcc0162c.png");'
+            >
+              <div class="flex justify-center gap-2 p-5">
+                <div class="size-1.5 rounded-full bg-[#fafcf8]"></div>
+                <div class="size-1.5 rounded-full bg-[#fafcf8] opacity-50"></div>
+                <div class="size-1.5 rounded-full bg-[#fafcf8] opacity-50"></div>
+                <div class="size-1.5 rounded-full bg-[#fafcf8] opacity-50"></div>
+                <div class="size-1.5 rounded-full bg-[#fafcf8] opacity-50"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <h1 class="text-[#151b0d] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 text-left pb-3 pt-5">Organic Shampoo for Women</h1>
+        <p class="text-[#151b0d] text-base font-normal leading-normal pb-3 pt-1 px-4">A luxurious organic shampoo that's perfect for all hair types.</p>
+        <h2 class="text-[#151b0d] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">Why Tlalli?</h2>
+        <div class="grid grid-cols-[repeat(auto-fit,minmax(158px,1fr))] gap-3 p-4">
+          <div class="flex flex-1 gap-3 rounded-lg border border-[#dce7cf] bg-[#fafcf8] p-4 flex-col">
+            <div class="text-[#151b0d]" data-icon="CircleHalf" data-size="24px" data-weight="regular">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" fill="currentColor" viewBox="0 0 256 256">
+                <path
+                  d="M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24Zm8,16.37a86.4,86.4,0,0,1,16,3V212.67a86.4,86.4,0,0,1-16,3Zm32,9.26a87.81,87.81,0,0,1,16,10.54V195.83a87.81,87.81,0,0,1-16,10.54ZM40,128a88.11,88.11,0,0,1,80-87.63V215.63A88.11,88.11,0,0,1,40,128Zm160,50.54V77.46a87.82,87.82,0,0,1,0,101.08Z"
+                ></path>
+              </svg>
+            </div>
+            <div class="flex flex-col gap-1">
+              <h2 class="text-[#151b0d] text-base font-bold leading-tight">Product Description</h2>
+              <p class="text-[#759a4c] text-sm font-normal leading-normal">No synthetic fragrance or color</p>
+            </div>
+          </div>
+          <div class="flex flex-1 gap-3 rounded-lg border border-[#dce7cf] bg-[#fafcf8] p-4 flex-col">
+            <div class="text-[#151b0d]" data-icon="Heart" data-size="24px" data-weight="regular">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" fill="currentColor" viewBox="0 0 256 256">
+                <path
+                  d="M178,32c-20.65,0-38.73,8.88-50,23.89C116.73,40.88,98.65,32,78,32A62.07,62.07,0,0,0,16,94c0,70,103.79,126.66,108.21,129a8,8,0,0,0,7.58,0C136.21,220.66,240,164,240,94A62.07,62.07,0,0,0,178,32ZM128,206.8C109.74,196.16,32,147.69,32,94A46.06,46.06,0,0,1,78,48c19.45,0,35.78,10.36,42.6,27a8,8,0,0,0,14.8,0c6.82-16.67,23.15-27,42.6-27a46.06,46.06,0,0,1,46,46C224,147.61,146.24,196.15,128,206.8Z"
+                ></path>
+              </svg>
+            </div>
+            <div class="flex flex-col gap-1">
+              <h2 class="text-[#151b0d] text-base font-bold leading-tight">Ingredients</h2>
+              <p class="text-[#759a4c] text-sm font-normal leading-normal">Never tested on animals</p>
+            </div>
+          </div>
+        </div>
+        <h2 class="text-[#151b0d] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">What's inside?</h2>
+        <div class="grid grid-cols-[repeat(auto-fit,minmax(158px,1fr))] gap-3 p-4">
+          <div class="flex flex-1 gap-3 rounded-lg border border-[#dce7cf] bg-[#fafcf8] p-4 flex-col">
+            <div
+              class="bg-center bg-no-repeat aspect-square bg-cover rounded-lg w-10 shrink-0"
+              style='background-image: url("https://cdn.usegalileo.ai/stability/323ae963-d32f-4ec4-b1c9-1d47c34f6796.png");'
+            ></div>
+            <div class="flex flex-col gap-1">
+              <h2 class="text-[#151b0d] text-base font-bold leading-tight">Aloe Vera</h2>
+              <p class="text-[#759a4c] text-sm font-normal leading-normal">Aloe Vera</p>
+            </div>
+          </div>
+          <div class="flex flex-1 gap-3 rounded-lg border border-[#dce7cf] bg-[#fafcf8] p-4 flex-col">
+            <div
+              class="bg-center bg-no-repeat aspect-square bg-cover rounded-lg w-10 shrink-0"
+              style='background-image: url("https://cdn.usegalileo.ai/stability/d9a0971c-990c-4cd1-98c7-8ec93d1a2f85.png");'
+            ></div>
+            <div class="flex flex-col gap-1">
+              <h2 class="text-[#151b0d] text-base font-bold leading-tight">Chamomile</h2>
+              <p class="text-[#759a4c] text-sm font-normal leading-normal">Chamomile</p>
+            </div>
+          </div>
+        </div>
+        <p class="text-[#759a4c] text-sm font-normal leading-normal pb-3 pt-1 px-4">96% natural derived ingredients</p>
+        <h2 class="text-[#151b0d] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">User Reviews</h2>
+        <div class="flex flex-col gap-8 overflow-x-hidden bg-[#fafcf8] p-4">
+          <div class="flex flex-col gap-3 bg-[#fafcf8]">
+            <div class="flex-1">
+              <p class="text-[#151b0d] text-base font-medium leading-normal">Sofia</p>
+              <p class="text-[#759a4c] text-sm font-normal leading-normal">Apr 2022</p>
+            </div>
+            <div class="flex gap-0.5">
+              <div class="text-[#93ee2b]" data-icon="Star" data-size="20px" data-weight="fill">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" fill="currentColor" viewBox="0 0 256 256">
+                  <path
+                    d="M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z"
+                  ></path>
+                </svg>
+              </div>
+              <div class="text-[#93ee2b]" data-icon="Star" data-size="20px" data-weight="fill">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" fill="currentColor" viewBox="0 0 256 256">
+                  <path
+                    d="M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z"
+                  ></path>
+                </svg>
+              </div>
+              <div class="text-[#93ee2b]" data-icon="Star" data-size="20px" data-weight="fill">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" fill="currentColor" viewBox="0 0 256 256">
+                  <path
+                    d="M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z"
+                  ></path>
+                </svg>
+              </div>
+              <div class="text-[#93ee2b]" data-icon="Star" data-size="20px" data-weight="fill">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" fill="currentColor" viewBox="0 0 256 256">
+                  <path
+                    d="M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z"
+                  ></path>
+                </svg>
+              </div>
+              <div class="text-[#93ee2b]" data-icon="Star" data-size="20px" data-weight="fill">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" fill="currentColor" viewBox="0 0 256 256">
+                  <path
+                    d="M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <p class="text-[#151b0d] text-base font-normal leading-normal">This is the best shampoo I've ever used. My hair feels so soft and clean.</p>
+          </div>
+          <div class="flex flex-col gap-3 bg-[#fafcf8]">
+            <div class="flex-1">
+              <p class="text-[#151b0d] text-base font-medium leading-normal">Audrey</p>
+              <p class="text-[#759a4c] text-sm font-normal leading-normal">Mar 2022</p>
+            </div>
+            <div class="flex gap-0.5">
+              <div class="text-[#93ee2b]" data-icon="Star" data-size="20px" data-weight="fill">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" fill="currentColor" viewBox="0 0 256 256">
+                  <path
+                    d="M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z"
+                  ></path>
+                </svg>
+              </div>
+              <div class="text-[#93ee2b]" data-icon="Star" data-size="20px" data-weight="fill">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" fill="currentColor" viewBox="0 0 256 256">
+                  <path
+                    d="M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z"
+                  ></path>
+                </svg>
+              </div>
+              <div class="text-[#93ee2b]" data-icon="Star" data-size="20px" data-weight="fill">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" fill="currentColor" viewBox="0 0 256 256">
+                  <path
+                    d="M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z"
+                  ></path>
+                </svg>
+              </div>
+              <div class="text-[#93ee2b]" data-icon="Star" data-size="20px" data-weight="fill">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" fill="currentColor" viewBox="0 0 256 256">
+                  <path
+                    d="M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z"
+                  ></path>
+                </svg>
+              </div>
+              <div class="text-[#93ee2b]" data-icon="Star" data-size="20px" data-weight="fill">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" fill="currentColor" viewBox="0 0 256 256">
+                  <path
+                    d="M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <p class="text-[#151b0d] text-base font-normal leading-normal">My hair smells amazing after using this shampoo. Highly recommend it.</p>
+          </div>
+          <div class="flex flex-col gap-3 bg-[#fafcf8]">
+            <div class="flex-1">
+              <p class="text-[#151b0d] text-base font-medium leading-normal">Kate</p>
+              <p class="text-[#759a4c] text-sm font-normal leading-normal">Feb 2022</p>
+            </div>
+            <div class="flex gap-0.5">
+              <div class="text-[#93ee2b]" data-icon="Star" data-size="20px" data-weight="fill">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" fill="currentColor" viewBox="0 0 256 256">
+                  <path
+                    d="M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z"
+                  ></path>
+                </svg>
+              </div>
+              <div class="text-[#93ee2b]" data-icon="Star" data-size="20px" data-weight="fill">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" fill="currentColor" viewBox="0 0 256 256">
+                  <path
+                    d="M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z"
+                  ></path>
+                </svg>
+              </div>
+              <div class="text-[#93ee2b]" data-icon="Star" data-size="20px" data-weight="fill">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" fill="currentColor" viewBox="0 0 256 256">
+                  <path
+                    d="M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z"
+                  ></path>
+                </svg>
+              </div>
+              <div class="text-[#93ee2b]" data-icon="Star" data-size="20px" data-weight="fill">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" fill="currentColor" viewBox="0 0 256 256">
+                  <path
+                    d="M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z"
+                  ></path>
+                </svg>
+              </div>
+              <div class="text-[#93ee2b]" data-icon="Star" data-size="20px" data-weight="fill">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" fill="currentColor" viewBox="0 0 256 256">
+                  <path
+                    d="M234.5,114.38l-45.1,39.36,13.51,58.6a16,16,0,0,1-23.84,17.34l-51.11-31-51,31a16,16,0,0,1-23.84-17.34L66.61,153.8,21.5,114.38a16,16,0,0,1,9.11-28.06l59.46-5.15,23.21-55.36a15.95,15.95,0,0,1,29.44,0h0L166,81.17l59.44,5.15a16,16,0,0,1,9.11,28.06Z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <p class="text-[#151b0d] text-base font-normal leading-normal">I have been using Tlalli for a month and my hair has never felt better.</p>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="flex justify-center">
+          <div class="flex flex-1 gap-3 flex-wrap px-4 py-3 max-w-[480px] justify-center">
+            <button
+              class="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-full h-12 px-5 bg-[#eef3e7] text-[#151b0d] text-base font-bold leading-normal tracking-[0.015em] grow"
+            >
+              <span class="truncate">Add to Cart</span>
+            </button>
+            <button
+              class="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-full h-12 px-5 bg-[#93ee2b] text-[#151b0d] text-base font-bold leading-normal tracking-[0.015em] grow"
+            >
+              <span class="truncate">Buy Now</span>
+            </button>
+          </div>
+        </div>
+        <div class="h-5 bg-[#fafcf8]"></div>
+      </div>
+    </div>
+  </body>
+</html>
